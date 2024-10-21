@@ -1,74 +1,76 @@
-
+Sağ tarafında yahoo için kodu yazıyor
 Bist 030
 
-asels
-astor
-doas
-ekgyo
-enkai
-alark 
-froto
-garan
-kontr
-kozal
-krdmrd
-mgros
-petkm
-pgsus
-sise
-toaso
-ttkom
-ulker
-THYAO.E	
-BIMAS.E	
-AKBNK.E	
-TUPRS.E	
-TCELL.E	
-KCHOL.E	
-ISCTR.E	
-SAHOL.E
-YKBNK.E	
-EREGL.E
+asels ASELS.IS
+astor ASTOR.IS
+doas DOAS.IS
+ekgyo EKGYO.IS
+enkai ENKAI.IS
+alark ALARK.IS
+froto FROTO.IS
+garan GARAN.IS
+kontr KONTR.IS
+kozal KOZAL.IS
+krdmrd KRDMD.IS
+mgros MGROS.IS
+petkm PETKM.IS
+pgsus PGSUS.IS
+sise SISE.IS
+toaso TOASO.IS
+ttkom TTKOM.IS
+ulker ULKER.IS
+THYAO.E	THYAO.IS
+BIMAS.E	BIMAS.IS
+AKBNK.E	AKBNK.IS
+TUPRS.E	TUPRS.IS
+TCELL.E	TCELL.IS
+KCHOL.E	KCHOL.IS
+ISCTR.E	ISCTR.IS
+SAHOL.E SAHOL.IS
+YKBNK.E	YKBNK.IS
+EREGL.E EREGL.IS
 
 --------------------------------
 
 Bist 050
 
-Aefes
-arclk
-brsan
-ccola
-dohol
-enjsa
-halkb
-odas
-oyakc
-sokm
-tavhl
-ttrak
-vakbn
-vestl
-zoren
+Aefes AEFES.IS
+arclk ARCLK.IS
+brsan BRSAN.IS
+ccola CCOLA.IS
+dohol DOHOL.IS
+enjsa ENJSA.IS
+halkb HALKB.IS
+odas ODAS.IS
+oyakc OYAKC.IS
+sokm SOKM.IS
+tavhl TAVHL.IS
+ttrak TTRAK.IS
+vakbn VAKBN.IS
+vestl VESTL.IS
+zoren ZOREN.IS
 
 ---------------------------------
 Endeksler
 
-xu100
-xu030
-xbank
-xulas
-xhold
-xusin
-xkmya
-xmana
-xinsa
-xiltm
-xutek
-XGMYO
-XSGRT
-XUMAL
-XTCRT
-XELKT
+xu100 XU100.IS
+xu030 XU030.IS
+xbank XBANK.IS
+xulas XULAS.IS
+xhold XHOLD.IS
+xusin XUSIN.IS
+xkmya XKMYA.IS
+xmana XMANA.IS
+xinsa XINSA.IS
+xiltm XILTM.IS
+xutek XUTEK.IS
+XGMYO XGMYO.IS
+XSGRT XSGRT.IS
+XUMAL XUMAL.IS
+XTCRT XTCRT.IS
+XELKT XELKT.IS
+
+
 i shares msci Turkey etf (usd)
 
 
