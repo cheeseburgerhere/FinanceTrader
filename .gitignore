@@ -2,3 +2,4 @@
 *.xlsx
 trainedModels*
 __pycache__*
+.env
