@@ -37,4 +37,4 @@ Follow these instructions to set up FinanceBot on your local machine.
    -**Currently in progress
 
 3. **Use the Telegram Bot to Get Instant Market Insights**
-  - ** (Temporary) Use the API folder scripts to start and use (There are no .exe files for now)
+  - (Temporary) Use the API folder scripts to start and use (There are no .exe files for now)
