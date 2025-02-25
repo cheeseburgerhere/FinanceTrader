@@ -1,0 +1,12 @@
+{
+    "../../Model/Weights/lr_dec_BiDir6200.pth" : {
+        "lookback_window": 10,
+        "input_size": 6,
+        "output_size": 1,
+        "num_layers": 1,
+        "embed_dim": 64,
+        "hidden_size": 128,
+        "bidirectional": true
+    }
+}
+  
